@@ -1,4 +1,4 @@
-#calculator using python
+# Simple calculator using python
 
 def add(num1,num2):
     result = num1 + num2
